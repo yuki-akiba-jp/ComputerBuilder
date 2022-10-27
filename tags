@@ -5,3 +5,4 @@
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
 const.parent	main.js	/^  parent: document.getElementById("target"),$/;"	p
+const.parent	text.js	/^  parent: document.getElementById("target"),$/;"	p
