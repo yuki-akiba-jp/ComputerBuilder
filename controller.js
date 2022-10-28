@@ -254,5 +254,3 @@ class Controller {
     return View.createbuiltPcPage(pc, gamingScore, workScore, Controller.count);
   }
 }
-
-Controller.startBuildComputer();

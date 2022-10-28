@@ -4,5 +4,196 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
+ComputerBuilder	README.md	/^# ComputerBuilder/;"	c
+Controller	controller.js	/^class Controller {$/;"	c
+Controller	controller.js	/^export class Controller {$/;"	c
+Controller	main.js	/^class Controller {$/;"	c
+Controller	text.js	/^class Controller {$/;"	c
+PC	main.js	/^class PC {$/;"	c
+PC	pc.js	/^class PC {$/;"	c
+PC	pc.js	/^export class PC {$/;"	c
+PC	text.js	/^class PC {$/;"	c
+View	main.js	/^class View {$/;"	c
+View	text.js	/^class View {$/;"	c
+View	view.js	/^class View {$/;"	c
+View	view.js	/^export class View {$/;"	c
+addBenchmarkData	main.js	/^  static addBenchmarkData(parts, benchmark, pc) {$/;"	m	class:PC
+addBenchmarkData	pc.js	/^  static addBenchmarkData(parts, benchmark, pc) {$/;"	m	class:PC
+addBenchmarkData	text.js	/^  static addBenchmarkData(parts, benchmark, pc) {$/;"	m	class:PC
+addBrandData	main.js	/^  static addBrandData(parts, selectedBrand, pc) {$/;"	m	class:PC
+addBrandData	pc.js	/^  static addBrandData(parts, selectedBrand, pc) {$/;"	m	class:PC
+addBrandData	text.js	/^  static addBrandData(parts, selectedBrand, pc) {$/;"	m	class:PC
+addModelData	main.js	/^  static addModelData(parts, selectedModel, pc) {$/;"	m	class:PC
+addModelData	pc.js	/^  static addModelData(parts, selectedModel, pc) {$/;"	m	class:PC
+addModelData	text.js	/^  static addModelData(parts, selectedModel, pc) {$/;"	m	class:PC
+addOptionList	controller.js	/^  static addOptionList(arr, op) {$/;"	m	class:Controller
+addOptionList	main.js	/^  static addOptionList(arr, op) {$/;"	m	class:Controller
+addOptionList	text.js	/^  static addOptionList(arr, op) {$/;"	m	class:Controller
+addStorageSizeData	main.js	/^  static addStorageSizeData(size, pc) {$/;"	m	class:PC
+addStorageSizeData	pc.js	/^  static addStorageSizeData(size, pc) {$/;"	m	class:PC
+addStorageSizeData	text.js	/^  static addStorageSizeData(size, pc) {$/;"	m	class:PC
+anonymousFunction47b889340100	controller.js	/^      .then(function (data) {$/;"	f
+anonymousFunction47b889340200	controller.js	/^        brandOp.addEventListener("change", function () {$/;"	f
+anonymousFunction47b889340300	controller.js	/^      .then(function (data) {$/;"	f
+anonymousFunction47b889340400	controller.js	/^        modelOp.addEventListener("change", function () {$/;"	f
+anonymousFunction47b889340500	controller.js	/^    ramNumOp.addEventListener("change", function () {$/;"	f
+anonymousFunction47b889340600	controller.js	/^    storageTypeOp.addEventListener("change", function () {$/;"	f
+anonymousFunction47b889340700	controller.js	/^        storageSizeOp.addEventListener("change", function () {$/;"	f
+anonymousFunction47b889340800	controller.js	/^        storageSizeOp.addEventListener("change", function () {$/;"	f
+anonymousFunction47b889340900	controller.js	/^      .then(function (data) {$/;"	f
+anonymousFunction7b6b062b0100	view.js	/^    addPcBtn.addEventListener("click", function () {$/;"	f
+anonymousFunctionb43910f50100	main.js	/^      .then(function (data) {$/;"	f
+anonymousFunctionb43910f50100	main.js	/^    addPcBtn.addEventListener("click", function () {$/;"	f
+anonymousFunctionb43910f50200	main.js	/^        brandOp.addEventListener("change", function () {$/;"	f
+anonymousFunctionb43910f50200	main.js	/^      .then(function (data) {$/;"	f
+anonymousFunctionb43910f50300	main.js	/^        brandOp.addEventListener("change", function () {$/;"	f
+anonymousFunctionb43910f50300	main.js	/^      .then(function (data) {$/;"	f
+anonymousFunctionb43910f50400	main.js	/^        modelOp.addEventListener("change", function () {$/;"	f
+anonymousFunctionb43910f50400	main.js	/^      .then(function (data) {$/;"	f
+anonymousFunctionb43910f50500	main.js	/^        modelOp.addEventListener("change", function () {$/;"	f
+anonymousFunctionb43910f50500	main.js	/^    ramNumOp.addEventListener("change", function () {$/;"	f
+anonymousFunctionb43910f50600	main.js	/^    ramNumOp.addEventListener("change", function () {$/;"	f
+anonymousFunctionb43910f50600	main.js	/^    storageTypeOp.addEventListener("change", function () {$/;"	f
+anonymousFunctionb43910f50700	main.js	/^        storageSizeOp.addEventListener("change", function () {$/;"	f
+anonymousFunctionb43910f50700	main.js	/^    storageTypeOp.addEventListener("change", function () {$/;"	f
+anonymousFunctionb43910f50800	main.js	/^        storageSizeOp.addEventListener("change", function () {$/;"	f
+anonymousFunctionb43910f50900	main.js	/^        storageSizeOp.addEventListener("change", function () {$/;"	f
+anonymousFunctionb43910f50900	main.js	/^      .then(function (data) {$/;"	f
+anonymousFunctionb43910f50a00	main.js	/^      .then(function (data) {$/;"	f
+anonymousFunctiond97816950100	text.js	/^    addPcBtn.addEventListener("click", function () {$/;"	f
+anonymousFunctiond97816950200	text.js	/^      .then(function (data) {$/;"	f
+anonymousFunctiond97816950300	text.js	/^        brandOp.addEventListener("change", function () {$/;"	f
+anonymousFunctiond97816950400	text.js	/^      .then(function (data) {$/;"	f
+anonymousFunctiond97816950500	text.js	/^        modelOp.addEventListener("change", function () {$/;"	f
+anonymousFunctiond97816950600	text.js	/^    ramNumOp.addEventListener("change", function () {$/;"	f
+anonymousFunctiond97816950700	text.js	/^    storageTypeOp.addEventListener("change", function () {$/;"	f
+anonymousFunctiond97816950800	text.js	/^        storageSizeOp.addEventListener("change", function () {$/;"	f
+anonymousFunctiond97816950900	text.js	/^        storageSizeOp.addEventListener("change", function () {$/;"	f
+anonymousFunctiond97816950a00	text.js	/^      .then(function (data) {$/;"	f
+body	style.css	/^body {$/;"	s
+brand	config.js	/^    brand: "#cpuBrand",$/;"	p	property:config.cpu
+brand	config.js	/^    brand: "#gpuBrand",$/;"	p	property:config.gpu
+brand	config.js	/^    brand: "#ramBrand",$/;"	p	property:config.ram
+brand	config.js	/^    brand: "#storageBrand",$/;"	p	property:config.storage
+brand	main.js	/^    brand: "#cpuBrand",$/;"	p	property:config.cpu
+brand	main.js	/^    brand: "#gpuBrand",$/;"	p	property:config.gpu
+brand	main.js	/^    brand: "#ramBrand",$/;"	p	property:config.ram
+brand	main.js	/^    brand: "#storageBrand",$/;"	p	property:config.storage
+brand	text.js	/^    brand: "#cpuBrand",$/;"	p	property:config.cpu
+brand	text.js	/^    brand: "#gpuBrand",$/;"	p	property:config.gpu
+brand	text.js	/^    brand: "#ramBrand",$/;"	p	property:config.ram
+brand	text.js	/^    brand: "#storageBrand",$/;"	p	property:config.storage
+clickAddPc	controller.js	/^  static clickAddPc(pc) {$/;"	m	class:Controller
+clickAddPc	main.js	/^  static clickAddPc(pc) {$/;"	m	class:Controller
+clickAddPc	text.js	/^  static clickAddPc(pc) {$/;"	m	class:Controller
+config	config.js	/^const config = {$/;"	v
+config	config.js	/^export const config = {$/;"	v
+config	main.js	/^const config = {$/;"	v
+config	text.js	/^const config = {$/;"	v
 const.parent	main.js	/^  parent: document.getElementById("target"),$/;"	p
 const.parent	text.js	/^  parent: document.getElementById("target"),$/;"	p
+constructor	main.js	/^  constructor() {$/;"	m	class:PC
+constructor	pc.js	/^  constructor() {$/;"	m	class:PC
+constructor	text.js	/^  constructor() {$/;"	m	class:PC
+count	controller.js	/^  static count = 0;$/;"	M	class:Controller
+count	main.js	/^  static count = 0;$/;"	M	class:Controller
+count	text.js	/^  static count = 0;$/;"	M	class:Controller
+cpu	config.js	/^  cpu: {$/;"	p	variable:config
+cpu	main.js	/^  cpu: {$/;"	p	variable:config
+cpu	text.js	/^  cpu: {$/;"	p	variable:config
+createInitialPage	main.js	/^  static createInitialPage(pc) {$/;"	m	class:View
+createInitialPage	text.js	/^  static createInitialPage(pc) {$/;"	m	class:View
+createInitialPage	view.js	/^  static createInitialPage(pc) {$/;"	m	class:View
+createbuiltPcPage	main.js	/^  static createbuiltPcPage(pc, gamingScore, workScore, count) {$/;"	m	class:View
+createbuiltPcPage	text.js	/^  static createbuiltPcPage(pc, gamingScore, workScore, count) {$/;"	m	class:View
+createbuiltPcPage	view.js	/^  static createbuiltPcPage(pc, gamingScore, workScore, count) {$/;"	m	class:View
+filterRamModel	controller.js	/^  static filterRamModel(number, ramModelData) {$/;"	m	class:Controller
+filterRamModel	main.js	/^  static filterRamModel(number, ramModelData) {$/;"	m	class:Controller
+filterRamModel	text.js	/^  static filterRamModel(number, ramModelData) {$/;"	m	class:Controller
+filterStorageModel	controller.js	/^  static filterStorageModel(size, storageModelData) {$/;"	m	class:Controller
+filterStorageModel	main.js	/^  static filterStorageModel(size, storageModelData) {$/;"	m	class:Controller
+filterStorageModel	text.js	/^  static filterStorageModel(size, storageModelData) {$/;"	m	class:Controller
+getAllData	controller.js	/^  static getAllData(pc) {$/;"	m	class:Controller
+getAllData	main.js	/^  static getAllData(pc) {$/;"	m	class:Controller
+getAllData	text.js	/^  static getAllData(pc) {$/;"	m	class:Controller
+getBenchmark	controller.js	/^  static getBenchmark(data) {$/;"	m	class:Controller
+getBenchmark	main.js	/^  static getBenchmark(data) {$/;"	m	class:Controller
+getBenchmark	text.js	/^  static getBenchmark(data) {$/;"	m	class:Controller
+getBrand	controller.js	/^  static getBrand(data) {$/;"	m	class:Controller
+getBrand	main.js	/^  static getBrand(data) {$/;"	m	class:Controller
+getBrand	text.js	/^  static getBrand(data) {$/;"	m	class:Controller
+getBrandData	controller.js	/^  static getBrandData(parts, brandOp, modelOp, pc) {$/;"	m	class:Controller
+getBrandData	main.js	/^  static getBrandData(parts, brandOp, modelOp, pc) {$/;"	m	class:Controller
+getBrandData	text.js	/^  static getBrandData(parts, brandOp, modelOp, pc) {$/;"	m	class:Controller
+getGamingBenchmark	main.js	/^  static getGamingBenchmark(pc) {$/;"	m	class:PC
+getGamingBenchmark	pc.js	/^  static getGamingBenchmark(pc) {$/;"	m	class:PC
+getGamingBenchmark	text.js	/^  static getGamingBenchmark(pc) {$/;"	m	class:PC
+getModel	controller.js	/^  static getModel(data) {$/;"	m	class:Controller
+getModel	main.js	/^  static getModel(data) {$/;"	m	class:Controller
+getModel	text.js	/^  static getModel(data) {$/;"	m	class:Controller
+getModelData	controller.js	/^  static getModelData(parts, brandOp, modelOp, modelData, benchmarkData, pc) {$/;"	m	class:Controller
+getModelData	main.js	/^  static getModelData(parts, brandOp, modelOp, modelData, benchmarkData, pc) {$/;"	m	class:Controller
+getModelData	text.js	/^  static getModelData(parts, brandOp, modelOp, modelData, benchmarkData, pc) {$/;"	m	class:Controller
+getRamData	controller.js	/^  static getRamData(ramBrandOp, ramModelOp, pc) {$/;"	m	class:Controller
+getRamData	main.js	/^  static getRamData(ramBrandOp, ramModelOp, pc) {$/;"	m	class:Controller
+getRamData	text.js	/^  static getRamData(ramBrandOp, ramModelOp, pc) {$/;"	m	class:Controller
+getStorageData	controller.js	/^  static getStorageData(storageBrandOp, storageModelOp, pc) {$/;"	m	class:Controller
+getStorageData	main.js	/^  static getStorageData(storageBrandOp, storageModelOp, pc) {$/;"	m	class:Controller
+getStorageData	text.js	/^  static getStorageData(storageBrandOp, storageModelOp, pc) {$/;"	m	class:Controller
+getStorageModel	controller.js	/^  static getStorageModel(data) {$/;"	m	class:Controller
+getStorageModel	main.js	/^  static getStorageModel(data) {$/;"	m	class:Controller
+getStorageModel	text.js	/^  static getStorageModel(data) {$/;"	m	class:Controller
+getStorageSizeData	controller.js	/^  static getStorageSizeData(type) {$/;"	m	class:Controller
+getStorageSizeData	main.js	/^  static getStorageSizeData(type) {$/;"	m	class:Controller
+getStorageSizeData	text.js	/^  static getStorageSizeData(type) {$/;"	m	class:Controller
+getStorageSizeList	controller.js	/^  static getStorageSizeList(storageModelData) {$/;"	m	class:Controller
+getStorageSizeList	main.js	/^  static getStorageSizeList(storageModelData) {$/;"	m	class:Controller
+getStorageSizeList	text.js	/^  static getStorageSizeList(storageModelData) {$/;"	m	class:Controller
+getStorageSizeString	controller.js	/^  static getStorageSizeString(storageModel) {$/;"	m	class:Controller
+getStorageSizeString	main.js	/^  static getStorageSizeString(storageModel) {$/;"	m	class:Controller
+getStorageSizeString	text.js	/^  static getStorageSizeString(storageModel) {$/;"	m	class:Controller
+getWorkBenchmark	main.js	/^  static getWorkBenchmark(pc) {$/;"	m	class:PC
+getWorkBenchmark	pc.js	/^  static getWorkBenchmark(pc) {$/;"	m	class:PC
+getWorkBenchmark	text.js	/^  static getWorkBenchmark(pc) {$/;"	m	class:PC
+gpu	config.js	/^  gpu: {$/;"	p	variable:config
+gpu	main.js	/^  gpu: {$/;"	p	variable:config
+gpu	text.js	/^  gpu: {$/;"	p	variable:config
+model	config.js	/^    model: "#cpuModel",$/;"	p	property:config.cpu
+model	config.js	/^    model: "#gpuModel",$/;"	p	property:config.gpu
+model	config.js	/^    model: "#ramModel",$/;"	p	property:config.ram
+model	config.js	/^    model: "#storageModel",$/;"	p	property:config.storage
+model	main.js	/^    model: "#cpuModel",$/;"	p	property:config.cpu
+model	main.js	/^    model: "#gpuModel",$/;"	p	property:config.gpu
+model	main.js	/^    model: "#ramModel",$/;"	p	property:config.ram
+model	main.js	/^    model: "#storageModel",$/;"	p	property:config.storage
+model	text.js	/^    model: "#cpuModel",$/;"	p	property:config.cpu
+model	text.js	/^    model: "#gpuModel",$/;"	p	property:config.gpu
+model	text.js	/^    model: "#ramModel",$/;"	p	property:config.ram
+model	text.js	/^    model: "#storageModel",$/;"	p	property:config.storage
+num	config.js	/^    num: "#ramNum",$/;"	p	property:config.ram
+num	main.js	/^    num: "#ramNum",$/;"	p	property:config.ram
+num	text.js	/^    num: "#ramNum",$/;"	p	property:config.ram
+parent	config.js	/^  parent: document.getElementById("target"),$/;"	p	variable:config
+parent	main.js	/^  parent: document.getElementById("target"),$/;"	p	variable:config
+parent	text.js	/^  parent: document.getElementById("target"),$/;"	p	variable:config
+ram	config.js	/^  ram: {$/;"	p	variable:config
+ram	main.js	/^  ram: {$/;"	p	variable:config
+ram	text.js	/^  ram: {$/;"	p	variable:config
+size	config.js	/^    size: "#storageSize",$/;"	p	property:config.storage
+size	main.js	/^    size: "#storageSize",$/;"	p	property:config.storage
+size	text.js	/^    size: "#storageSize",$/;"	p	property:config.storage
+startBuildComputer	controller.js	/^  static startBuildComputer() {$/;"	m	class:Controller
+startBuildComputer	main.js	/^  static startBuildComputer() {$/;"	m	class:Controller
+startBuildComputer	text.js	/^  static startBuildComputer() {$/;"	m	class:Controller
+storage	config.js	/^  storage: {$/;"	p	variable:config
+storage	main.js	/^  storage: {$/;"	p	variable:config
+storage	text.js	/^  storage: {$/;"	p	variable:config
+target	index.html	/^    <div id="target"><\/div>$/;"	I
+target	index.html	/^  <div id="target"><\/div>$/;"	I
+target	text.html	/^    <div id="target"><\/div>$/;"	I
+type	config.js	/^    type: "#storageType",$/;"	p	property:config.storage
+type	main.js	/^    type: "#storageType",$/;"	p	property:config.storage
+type	text.js	/^    type: "#storageType",$/;"	p	property:config.storage
+url	config.js	/^  url: "https:\/\/api.recursionist.io\/builder\/computers?type=",$/;"	p	variable:config
+url	main.js	/^  url: "https:\/\/api.recursionist.io\/builder\/computers?type=",$/;"	p	variable:config
+url	text.js	/^  url: "https:\/\/api.recursionist.io\/builder\/computers?type=",$/;"	p	variable:config
